@@ -39,6 +39,6 @@ echo -e "\n${BLUE}==============================================================
 echo -e "${GREEN}🎉 Dual-Desktop Environment Installed Successfully!${NC}"
 echo -e "${BLUE}==================================================================${NC}"
 echo -e "You can now choose between:"
-echo -e "  1. 🪟 ${GREEN}Plasma (Wayland)${NC} &mdash; Pixel-perfect Windows 11 desktop"
-echo -e "  2. 🌌 ${GREEN}Omarchy${NC}          &mdash; High-productivity Hyprland tiling desktop"
+echo -e "  1. 🪟 ${GREEN}Plasma (Wayland)${NC} — Pixel-perfect Windows 11 desktop"
+echo -e "  2. 🌌 ${GREEN}Omarchy${NC}          — High-productivity Hyprland tiling desktop"
 echo -e "\nSimply select your session from the login screen (SDDM/GDM)."
